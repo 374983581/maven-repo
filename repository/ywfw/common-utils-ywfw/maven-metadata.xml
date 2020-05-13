@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ywfw</groupId>
+  <artifactId>common-utils-ywfw</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200513082742</lastUpdated>
+  </versioning>
+</metadata>
